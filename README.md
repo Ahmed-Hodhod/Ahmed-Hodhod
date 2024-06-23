@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahmed.abdelsalam.sa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14hCf7QPRPK7O1pRtMedcmoqdDFudbLtD/view?usp=sharing](https://drive.google.com/file/d/14hCf7QPRPK7O1pRtMedcmoqdDFudbLtD/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14hCf7QPRPK7O1pRtMedcmoqdDFudbLtD](https://drive.google.com/file/d/14hCf7QPRPK7O1pRtMedcmoqdDFudbLtD)
 
 - ⚡ Fun fact **I like Ping Pong**
 
