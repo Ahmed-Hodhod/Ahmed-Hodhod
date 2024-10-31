@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **System Design and Kubernetes Best Practices**
 
-- 👨‍💻 All of my projects are available at [https://ahmed-hodhod-github-io.vercel.app/](https://ahmed-hodhod-github-io.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://ahmed-hodhod-github-io.vercel.app/](https://ahmed-hodhod-github-io.vercel.app/)
 
 - 💬 Ask me about **DevOps, Kubernetes, CICD, Automation, Terraform, Ansible, Docker, Software Engineering**
 
