@@ -1,21 +1,44 @@
-<h1 align="center">Salam 👋, I'm Ahmed Abdelsalam. You can call me Hodhod.</h1>
-<h3 align="center">A passionate DevOps Engineer from Egypt</h3>
+<h1>Ahmed Hodhod</h1>
 
-- 🌱 I’m currently learning **System Design and Kubernetes Best Practices**
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-abdelsalam-hodhod"><img src="https://img.shields.io/badge/LinkedIn-ahmed--abdelsalam--hodhod-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.nerconda.com"><img src="https://img.shields.io/badge/Nerconda-nerconda.com-111111" alt="Nerconda"></a>
+  <a href="mailto:a.hodhod@nerconda.com"><img src="https://img.shields.io/badge/Email-a.hodhod%40nerconda.com-555555?logo=maildotru&logoColor=white" alt="Email"></a>
+</p>
 
-- 👨‍💻 Some of my projects are available at [https://ahmed-hodhod-github-io.vercel.app/](https://ahmed-hodhod-github-io.vercel.app/)
+Platform Engineer at **Vodafone Group**, building **TaaZure**, the internal Azure platform that engineering teams across 13+ markets ship on.
 
-- 💬 Ask me about **DevOps, Kubernetes, CICD, Automation, Terraform, Ansible, Docker, Software Engineering**
+I work on the platform layer: AKS clusters, the Terraform and Terragrunt modules teams build on, GitOps delivery, policy and guardrails, and the on-call that keeps it all running.
 
-- 📫 How to reach me **ahmed.abdelsalam.sa@gmail.com**
+## What I work with
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14hCf7QPRPK7O1pRtMedcmoqdDFudbLtD](https://drive.google.com/file/d/14hCf7QPRPK7O1pRtMedcmoqdDFudbLtD)
+**Azure (day job)**
+- AKS, multi-tenant, with Cilium, Kyverno, KEDA, Karpenter and NGINX Gateway Fabric
+- Terraform and Terragrunt across environments and markets
+- Azure DevOps, GitHub Actions, ArgoCD (GitOps), JFrog Artifactory
+- Azure API Management and Cloudflare at the edge
+- Datadog for observability, MongoDB Atlas, Backstage
 
-- ⚡ Fun fact **I like Ping Pong**
+**AWS (hands-on)**
+- EKS and Terraform-provisioned AWS infrastructure
+- Cut non-production cloud spend by 25% a month at 4Sale
+- Cloud migrations and CloudGate, a platform that lets enterprises in Saudi Arabia run their own cloud while staying compliant
+- 1st place at the VOIS AWS GameDay, building and securing AI agents on Amazon Bedrock AgentCore
 
+**Also:** Linux, Bash, Python, Docker, Helm, Ansible, Prometheus, Grafana, Claude Code
 
+## Certifications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Kubernetes and Cloud Native Associate (KCNA)
+- Kubernetes and Cloud Native Security Associate (KCSA)
+- Data Protection Officer, Category B, Egypt's Personal Data Protection Center (PDPC)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-hodhod&show_icons=true&locale=en&layout=compact" alt="ahmed-hodhod" /></p>
+## Outside the day job
+
+- Co-founder of [Nerconda](https://www.nerconda.com): tech hiring from Egypt for teams in the Gulf, UK and US
+- PDPC-certified DPO, helping Egyptian companies with the data protection law
+- Taught the Cloud Computing course as a TA at Cairo University's Faculty of Engineering
+- Vodafone Star Award, Nov 2026
+
+Happy to talk platform engineering, AKS, GitOps or Terraform at scale.
