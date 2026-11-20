@@ -30,8 +30,6 @@ I work on the platform layer: AKS clusters, the Terraform and Terragrunt modules
 ## Certifications
 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Kubernetes and Cloud Native Associate (KCNA)
-- Kubernetes and Cloud Native Security Associate (KCSA)
 - Data Protection Officer, Category B, Egypt's Personal Data Protection Center (PDPC)
 
 ## Outside the day job
